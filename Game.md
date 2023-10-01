@@ -1,4 +1,4 @@
-Game : Crack Code
+Crack Code
 
 Project Description:
 
